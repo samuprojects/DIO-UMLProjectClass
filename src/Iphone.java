@@ -26,7 +26,7 @@ public class Iphone implements IpodFeaturePlayer, PhoneFeatureCalls, WebFeatureB
 
 	@Override
 	public void addNewTab() {
-		System.out.println("new tab has been openedd");
+		System.out.println("new tab has been opened");
 	}
 
 	@Override
